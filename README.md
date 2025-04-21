@@ -20,8 +20,13 @@ The workflow includes:
 | **Analysis** | Advanced SQL (CTEs, Window Functions) |
 | **Visualization** | Power BI (Direct Query) |
 
-## Power BI Visuals
-<img src="https://github.com/user-attachments/assets/f7c7d069-f46a-40f6-9e5b-8348d5d3499a" width="300" alt="ZomatoBI1"> <img src="https://github.com/user-attachments/assets/1be2c490-4e94-4b8b-8dea-1b96c177a1c7" width="300" alt="ZomatoBI2">
+## <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width="24" style="margin-bottom: -10 px"> Power BI Visuals
+<img src="https://github.com/user-attachments/assets/f7c7d069-f46a-40f6-9e5b-8348d5d3499a" width="450" alt="ZomatoBI1"> <img src="https://github.com/user-attachments/assets/1be2c490-4e94-4b8b-8dea-1b96c177a1c7" width="450" alt="ZomatoBI2"> 
+<img src="https://github.com/user-attachments/assets/b8486b8c-3a5d-428e-b191-fd2efa42b652" width="450" alt="ZomatoBI3"><img src="https://github.com/user-attachments/assets/2940bdba-5d8d-44e2-823a-9c44ff5fcb01" width="450" alt="ZomatoBI4">
+
+
+
+
 
 
 
