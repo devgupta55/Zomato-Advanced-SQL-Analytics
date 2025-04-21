@@ -75,6 +75,8 @@ The workflow includes:
 
 [View the Zomato PowerBI Visuals](Zomato_PowerBI.pbix)
 
+## 🔒 Data Confidentiality Notice  
+*Due to confidentiality agreements, the original datasets cannot be shared publicly. Sample queries demonstrate the analytical approach using synthetic/scrambled data.*
 
 
 
