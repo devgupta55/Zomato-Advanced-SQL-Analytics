@@ -10,6 +10,8 @@ The workflow includes:
 - **Data Import:** Inserting sample data into the tables.
 - **Data Cleaning:** Handling null values and ensuring data integrity.
 - **Business Problems:** Solving 20 specific business problems using SQL queries.
+  
+### **Entity Relationship Diagram (ERD)**
 <img src="https://github.com/user-attachments/assets/24e52ab3-64be-4593-8040-7ebe7a954070" width="600" alt="ZomatoERD">
 
 ## 🛠️ Technical Stack
